@@ -1,0 +1,37 @@
+ - html = hyper text markup language
+ - always <!DOCTYPE HTML> must be 1st line so the comp knows its html
+ - All our HTML content comes inside the opening <html> tag and closing </html> tag.
+ - Inside <head> tags, we store information about the page. eg title(can see on the )
+ - Inside <body> tags  we write content which is displayed on the web page.
+
+TAGS --- 
+
+div -
+    div tags create a big box in which we can create multiple smaller boxes.
+    class names help organize and make it easier to style.
+
+h1,h2,h3,h4 - 
+    We used <h1> tags to create a BIG header. 
+    <h2>, <h3>, <h4> tags could be used to create SMALLER headers
+
+a - 
+    We used <a> tag to create hyperlinks— Projects and About Me.
+
+p - 
+   <p> tag  is used to write text in a paragraph.
+
+self closing tags --
+
+br -
+   <br/> is used to add a brake and start in the next line
+
+img - 
+    We used <img/> tag to add images. 
+
+link -
+    link is to link it to css style sheet when we call a css sheet 
+    rel = "stylesheet" 
+    type= "text/css"
+    href = page name 
+
+    link types reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types 

@@ -1,0 +1,32 @@
+
+body{
+    background-color: #ffff9b
+}
+ h1 {
+   color:rgb(0, 1, 59)
+ }
+
+
+.header {
+    background-color:lightblue;
+    border:solid;
+
+    display:flex;
+    justify-content:space-between;
+
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}

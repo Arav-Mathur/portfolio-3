@@ -1,0 +1,27 @@
+ - css = cascading style sheet 
+
+Hexadecimal number system - 
+
+     - Hexadecimal number system is based on 16 digits.
+     - alphabets represent numbers after 9. = A: 10, B: 11, C: 12, D: 13, E: 14, F: 15
+     - add '#' before to tell the computer that it is hexadecimal.
+     - 0 in hexadecimal is 00
+     - 255 in hexadecimal is FF
+
+     - 1st two digits = amount of red, 
+     - 2nd two digits = amount of green,
+     - 3rd two digits = amount of blue
+
+    In hexadecimal:
+         - Black is represented as #000000
+         - White is represented as #FFFFFF
+
+FlexBox - 
+
+     - before any flexbox styling always use  display:flex; 
+     to tell the browser that we are going to be using a flexbox
+     
+     - we can use "justify-content" property inside the 
+     parent div to align the inside boxes horizontally.
+     
+    full guide to flexboxes ref: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
